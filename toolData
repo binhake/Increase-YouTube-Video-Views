@@ -1,44 +1,7 @@
 {
 	"version": "2.0.3",
 	"manager_api": "https://google.com",
-	"banner": [
-		{
-			"text": "  ██████╗░██╗███╗░░██╗██╗░░██╗░█████╗░██╗░░██╗███████╗
-  ██╔══██╗██║████╗░██║██║░░██║██╔══██╗██║░██╔╝██╔════╝
-  ██████╦╝██║██╔██╗██║███████║███████║█████═╝░█████╗░░
-  ██╔══██╗██║██║╚████║██╔══██║██╔══██║██╔═██╗░██╔══╝░░
-  ██████╦╝██║██║░╚███║██║░░██║██║░░██║██║░╚██╗███████╗
-  ╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝\n",
-			"style": "term.yellow"
-		},
-		{
-			"text": "  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n",
-			"style": "term.green"
-		},
-		{
-			"text": "  ▶ Facebook: https://www.facebook.com/binhake
-  ☉ Zalo: 0348448155
-  ☁ Youtube Channel: Binhakeツ
-  ∞ Google: binhake
-  ∞ BioPage: https://bìnhake.vn/ (có dấu huyền)
-  ∞ Web Mua Hàng: https://muahang.binhake.com/\n",
-			"style": "term.yellow"
-		},
-		{
-			"text": "  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n",
-			"style": "term.green"
-		},
-		{
-			"text": "\nVPS 1-1 1 NĂM GIÁ CHỈ 150K/NĂM. TREO TOOL TUBEROCKET QUANH NĂM LUÔN NHÉ =)))
-
-KEY 3 NGÀY SẼ CHỈ LIVE 1 NGÀY, NÊN MỖI NGÀY CÁC BẠN SẼ PHẢI VƯỢT LINK ĐỂ LẤY KEY MỚI. SAU KHI CÓ 1000 LƯỢT VƯỢT LINK THÌ MÌNH SẼ TRẢ KEY HẠN SỬ DỤNG KEY THÀNH 3 NGÀY.\n",
-			"style": "term.yellow"
-		},
-		{
-			"text": "\n  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
-			"style": "term.green"
-		},
-	],
+	"banner": [],
 	"config": {
 		"tokenapp": "",
 		"android": "",
