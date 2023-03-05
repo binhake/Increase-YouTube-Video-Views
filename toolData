@@ -1,7 +1,33 @@
 {
 	"version": "2.0.3",
 	"manager_api": "https://google.com",
-	"banner": [],
+	"title": "TOOL AUTO CÀY XU TUBEROCKET by NGUYỄN TRỌNG BÌNH - vver"
+	"banner": [
+		{
+			"text": "  ██████╗░██╗███╗░░██╗██╗░░██╗░█████╗░██╗░░██╗███████╗\n  ██╔══██╗██║████╗░██║██║░░██║██╔══██╗██║░██╔╝██╔════╝\n  ██████╦╝██║██╔██╗██║███████║███████║█████═╝░█████╗░░\n  ██╔══██╗██║██║╚████║██╔══██║██╔══██║██╔═██╗░██╔══╝░░  ██████╦╝██║██║░╚███║██║░░██║██║░░██║██║░╚██╗███████╗\n  ╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝\n",
+			"style": "term.yellow"
+		},
+		{
+			"text": "  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n",
+			"style": "term.green"
+		},
+		{
+			"text": "  ▶ Facebook: https://www.facebook.com/binhake\n  ☉ Zalo: 0348448155\n  ☁ Youtube Channel: Binhakeツ\n  ∞ Google: binhake\n  ∞ BioPage: https://bìnhake.vn/ (có dấu huyền)n  ∞ Web Mua Hàng: https://muahang.binhake.com/\n",
+			"style": "term.yellow"
+		},
+		{
+			"text": "  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n",
+			"style": "term.green"
+		},
+		{
+			"text": "\nVPS 1-1 1 NĂM GIÁ CHỈ 150K/NĂM. TREO TOOL TUBEROCKET QUANH NĂM LUÔN NHÉ =)))\n\nKEY 3 NGÀY SẼ CHỈ LIVE 1 NGÀY, NÊN MỖI NGÀY CÁC BẠN SẼ PHẢI VƯỢT LINK ĐỂ LẤY KEY MỚI. SAU KHI CÓ 1000 LƯỢT VƯỢT LINK THÌ MÌNH SẼ TRẢ KEY HẠN SỬ DỤNG KEY THÀNH 3 NGÀY.\n",
+			"style": "term.yellow"
+		},
+		{
+			"text": "\n  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+			"style": "term.green"
+		},
+	],
 	"config": {
 		"tokenapp": "",
 		"android": "",
