@@ -4,17 +4,17 @@
 	"title": "TOOL AUTO CÀY XU TUBEROCKET by NGUYỄN TRỌNG BÌNH - vver",
 	"banner": [
 		{
-			"text": "  ██████╗░██╗███╗░░██╗██╗░░██╗░█████╗░██╗░░██╗███████╗
+			"text": `  ██████╗░██╗███╗░░██╗██╗░░██╗░█████╗░██╗░░██╗███████╗
   ██╔══██╗██║████╗░██║██║░░██║██╔══██╗██║░██╔╝██╔════╝
   ██████╦╝██║██╔██╗██║███████║███████║█████═╝░█████╗░░
   ██╔══██╗██║██║╚████║██╔══██║██╔══██║██╔═██╗░██╔══╝░░
   ██████╦╝██║██║░╚███║██║░░██║██║░░██║██║░╚██╗███████╗
-  ╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝\n",
-			"style": "term.yellow"
+  ╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝\n`,
+			"style": "yellow"
 		},
 		{
-			"text": "  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n",
-			"style": "term.green"
+			"text": `  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n`,
+			"style": "green"
 		},
 		{
 			"text": "  ▶ Facebook: https://www.facebook.com/binhake
@@ -26,18 +26,18 @@
 			"style": "term.yellow"
 		},
 		{
-			"text": "  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n",
-			"style": "term.green"
+			"text": `  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n`,
+			"style": "green"
 		},
 		{
-			"text": "\nVPS 1-1 1 NĂM GIÁ CHỈ 150K/NĂM. TREO TOOL TUBEROCKET QUANH NĂM LUÔN NHÉ =)))
+			"text": `\nVPS 1-1 1 NĂM GIÁ CHỈ 150K/NĂM. TREO TOOL TUBEROCKET QUANH NĂM LUÔN NHÉ =)))
 
-KEY 3 NGÀY SẼ CHỈ LIVE 1 NGÀY, NÊN MỖI NGÀY CÁC BẠN SẼ PHẢI VƯỢT LINK ĐỂ LẤY KEY MỚI. SAU KHI CÓ 1000 LƯỢT VƯỢT LINK THÌ MÌNH SẼ TRẢ KEY HẠN SỬ DỤNG KEY THÀNH 3 NGÀY.\n",
+KEY 3 NGÀY SẼ CHỈ LIVE 1 NGÀY, NÊN MỖI NGÀY CÁC BẠN SẼ PHẢI VƯỢT LINK ĐỂ LẤY KEY MỚI. SAU KHI CÓ 1000 LƯỢT VƯỢT LINK THÌ MÌNH SẼ TRẢ KEY HẠN SỬ DỤNG KEY THÀNH 3 NGÀY.\n`,
 			"style": "term.yellow"
 		},
 		{
-			"text": "\n  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
-			"style": "term.green"
+			"text": `\n  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`,
+			"style": "green"
 		},
 	],
 	"config": {
