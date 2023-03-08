@@ -4,14 +4,14 @@
 		"auth": {
 			"api": "https://api-tuberocket.xn--bnhake-wva.vn/check-key.php?key_code=args1",
 			key: {
-				"args1": "key",
+				"args1": "username",
 				"args2": "password"
 			}
 		},
 		"manager": {
 			"api": "https://google.com",
 			key: {
-				"args1": "key",
+				"args1": "username",
 				"args2": "password"
 			}
 		}
