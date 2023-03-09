@@ -2,9 +2,9 @@
 	"version": "2.0.3",
 	"api": {
 		"auth": {
-			"api": "https://api-tuberocket.xn--bnhake-wva.vn/check-key.php?key_code=args1",
+			"api": "http://asdf.binhake.dev/?check_key=true&key_code=&password=",
 			"key": {
-				"args1": "username",
+				"args1": "key",
 				"args2": "password"
 			}
 		},
@@ -13,7 +13,7 @@
 			"key": {
 				"args1": "username",
 				"args2": "password",
-				"args3": "key"
+				"args3": "managerKey"
 			}
 		}
 	},
