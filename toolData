@@ -12,7 +12,8 @@
 			"api": "https://google.com",
 			"key": {
 				"args1": "username",
-				"args2": "password"
+				"args2": "password",
+				"args3": "key"
 			}
 		}
 	},
