@@ -1,52 +1,100 @@
 {
-	"version": "2.0.3",
-	"api": {
-		"auth": {
-			"api": "http://active.binhake.dev/api.php?check_key=true&key_code=args1&password=args2",
-			"key": {
-				"args1": "key",
-				"args2": "password"
-			}
-		},
-		"manager": {
-			"api": "https://google.com",
-			"key": {
-				"args1": "username",
-				"args2": "password",
-				"args3": "managerKey"
-			}
+"version": "2.0.0",
+"api": {
+	"auth": {
+		"api": "http://services.binhake.dev/api.php?identifier=check_key&key_code=args1&password=args2",
+		"key": {
+			"args1": "key",
+			"args2": "password"
 		}
 	},
-	"title": "TOOL AUTO CÀY XU TUBEROCKET by NGUYỄN TRỌNG BÌNH - vver",
-	"banner": [
-		{
-			"text": "  ██████╗░██╗███╗░░██╗██╗░░██╗░█████╗░██╗░░██╗███████╗//n  ██╔══██╗██║████╗░██║██║░░██║██╔══██╗██║░██╔╝██╔════╝//n  ██████╦╝██║██╔██╗██║███████║███████║█████═╝░█████╗░░//n  ██╔══██╗██║██║╚████║██╔══██║██╔══██║██╔═██╗░██╔══╝░░//n  ██████╦╝██║██║░╚███║██║░░██║██║░░██║██║░╚██╗███████╗//n  ╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝//n",
-			"style": "yellow"
-		},
-		{
-			"text": "  ▶ Facebook: https://www.facebook.com/binhake//n  ☉ Zalo: 0348448155//n  ☁ Youtube Channel: Binhakeツ//n  ∞ Google: binhake//n  ∞ BioPage: https://bìnhake.vn/ (có dấu huyền)//n  ∞ Web Mua Hàng: https://muahang.binhake.com///n",
-			"style": "term.yellow"
-		},
-		{
-			"text": "VPS 1-1 1 NĂM GIÁ CHỈ 150K/NĂM. TREO TOOL TUBEROCKET QUANH NĂM LUÔN NHÉ =)))//n//nKEY 3 NGÀY SẼ CHỈ LIVE 1 NGÀY, NÊN MỖI NGÀY CÁC BẠN SẼ PHẢI VƯỢT LINK ĐỂ LẤY KEY MỚI. SAU KHI CÓ 1000 LƯỢT VƯỢT LINK THÌ MÌNH SẼ TRẢ KEY HẠN SỬ DỤNG KEY THÀNH 3 NGÀY.//n",
-			"style": "yellow"
+	"manager": {
+		"api": "http://services.binhake.dev/api.php?identifier=active&manager_API=args1&type=tuberocket&key_code=args2&p=args3",
+		"key": {
+			"args1": "managerAPI",
+			"args2": "key",
+			"args3": "password"
 		}
-	],
-	"config": {
-		"tokenapp": "",
-		"android": "",
-		"device": "",
-		"locale": "",
-		"deviceToken": "",
-		"proxies": {
-			"http": ""
-		},
-		"buffVideo": [
-			{
-				"IDVideo": "",
-				"viewPerVideo": "",
-				"secondsPerView": ""
-			}
-		]
+	},
+	"buy": {
+		"api": "http://services.binhake.dev/api.php?identifier=tuberocketBuy&tokenapp=args1&android=args2&device=args3&locale=args4&deviceToken=args5&id=args6&playCount=args7&playSecond=args8",
+		"key": {
+			"args1": "tokenapp",
+			"args2": "android",
+			"args3": "device",
+			"args4": "locale",
+			"args5": "deviceToken",
+			"args6": "id",
+			"args7": "playCount",
+			"args8": "playSecond"
+		}
+	},
+	"getinfo": {
+		"api": "http://services.binhake.dev/api.php?identifier=tuberocketGetInfo&tokenapp=args1&android=args2&device=args3&locale=args4&deviceToken=args5",
+		"key": {
+			"args1": "tokenapp",
+			"args2": "android",
+			"args3": "device",
+			"args4": "locale",
+			"args5": "deviceToken"
+		}
+	},
+	"externalLink": {
+		"instruction": "https://youtu.be/NZWRPLv8rhI"
 	}
+
+},
+"title": "TOOL AUTO CÀY XU TUBEROCKET by NGUYỄN TRỌNG BÌNH - vver",
+"banner": [
+	{
+		"text": "  ██████╗░██╗███╗░░██╗██╗░░██╗░█████╗░██╗░░██╗███████╗//n  ██╔══██╗██║████╗░██║██║░░██║██╔══██╗██║░██╔╝██╔════╝//n  ██████╦╝██║██╔██╗██║███████║███████║█████═╝░█████╗░░//n  ██╔══██╗██║██║╚████║██╔══██║██╔══██║██╔═██╗░██╔══╝░░//n  ██████╦╝██║██║░╚███║██║░░██║██║░░██║██║░╚██╗███████╗//n  ╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝//n",
+		"style": "yellow"
+	},
+	{
+		"text": "  ▶ Facebook: https://www.facebook.com/binhake//n  ☉ Zalo: 0348448155//n  ☁ Youtube Channel: Binhakeツ//n  ∞ Google: binhake//n  ∞ BioPage: https://bìnhake.vn/ (có dấu huyền)//n  ∞ Web Mua Hàng: https://muahang.binhake.com///n",
+		"style": "term.yellow"
+	},
+	{
+		"text": "VPS 1-1 1 NĂM GIÁ CHỈ 150K/NĂM. TREO TOOL TUBEROCKET QUANH NĂM LUÔN NHÉ =)))//n//nKEY 3 NGÀY SẼ CHỈ LIVE 1 NGÀY, NÊN MỖI NGÀY CÁC BẠN SẼ PHẢI VƯỢT LINK ĐỂ LẤY KEY MỚI. SAU KHI CÓ 1000 LƯỢT VƯỢT LINK THÌ MÌNH SẼ TRẢ KEY HẠN SỬ DỤNG KEY THÀNH 3 NGÀY.//n",
+		"style": "yellow"
+	}
+],
+"config": {
+	"tokenapp": "",
+	"android": "",
+	"device": "",
+	"locale": "",
+	"deviceToken": "",
+	"managerAPI": "",
+	"proxies": {
+		"http": ""
+	},
+	"buffVideo": [
+		{
+			"IDVideo": "",
+			"viewPerVideo": "",
+			"secondsPerView": ""
+		},
+		{
+			"IDVideo": "",
+			"viewPerVideo": "",
+			"secondsPerView": ""
+		},
+		{
+			"IDVideo": "",
+			"viewPerVideo": "",
+			"secondsPerView": ""
+		},
+		{
+			"IDVideo": "",
+			"viewPerVideo": "",
+			"secondsPerView": ""
+		},
+		{
+			"IDVideo": "",
+			"viewPerVideo": "",
+			"secondsPerView": ""
+		}
+	]
+}
 }
