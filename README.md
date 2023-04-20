@@ -5,9 +5,9 @@ Là sản phẩm được viết dựa trên các requests bắt được từ �
 Script có thể chạy trên mọi nền tảng có thể cài đặt NodeJS phiên bản LTS.
 
 # Yêu cầu thiết bị
-> Thiết bị có thể cài đặt NodeJS bản LTS
-> Cấu hình tối thiểu `1 Core - 1GB RAM` để script có thể hoạt động bình thường.
-> Kết nối Internet đủ ổn định để duy trì hoạt động.
+- Thiết bị có thể cài đặt NodeJS bản LTS
+- Cấu hình tối thiểu `1 Core - 1GB RAM` để script có thể hoạt động bình thường.
+- Kết nối Internet đủ ổn định để duy trì hoạt động.
 
 # Hướng dẫn sử dụng
 Xem tại [Tutorial Video on Youtube](https://www.youtube.com/channel/UCuMDKQ19ta7KD9zivMAd8hQ)
