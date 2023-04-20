@@ -1,16 +1,20 @@
 # Auto Tuberocket Script - NodeJS Version
 Là sản phẩm được viết dựa trên các requests bắt được từ ứng dụng gốc, việc sử dụng script thay ứng dụng gốc sẽ giúp cho người dùng có thể dễ dàng tăng được nhiều lượt xem hơn mà không phải bị hư hỏng bất kì món thiết bị nào vì phải treo và cắm sạc liên tục.
 
+
 # Nền tảng hỗ trợ
 Script có thể chạy trên mọi nền tảng có thể cài đặt NodeJS phiên bản LTS.
+
 
 # Yêu cầu thiết bị
 - Thiết bị có thể cài đặt NodeJS bản LTS
 - Cấu hình tối thiểu `1 Core - 1GB RAM` để script có thể hoạt động bình thường.
 - Kết nối Internet đủ ổn định để duy trì hoạt động.
 
+
 # Hướng dẫn sử dụng
-Xem tại [Tutorial Video on Youtube](https://www.youtube.com/channel/UCuMDKQ19ta7KD9zivMAd8hQ)
+- Xem tại [Tutorial Video on Youtube](https://www.youtube.com/channel/UCuMDKQ19ta7KD9zivMAd8hQ)
+
 
 # Lưu ý
 Script được phân phối theo 2 hình thức: miễn phí và trả phí. 
