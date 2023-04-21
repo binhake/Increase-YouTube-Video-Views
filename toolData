@@ -1,100 +1,101 @@
 {
-"version": "2.0.0",
-"api": {
-	"auth": {
-		"api": "http://services.binhake.dev/api.php?identifier=check_key&key_code=args1&password=args2",
-		"key": {
-			"args1": "key",
-			"args2": "password"
+	"version": "2.0.0",
+	"api": {
+		"auth": {
+			"api": "http://services.binhake.dev/api.php?identifier=check_key&key_code=args1&password=args2",
+			"key": {
+				"args1": "key",
+				"args2": "password"
+			}
+		},
+		"manager": {
+			"api": "http://services.binhake.dev/api.php?identifier=active&manager_API=args1&type=tuberocket&key_code=args2&p=args3",
+			"key": {
+				"args1": "managerAPI",
+				"args2": "key",
+				"args3": "password"
+			}
+		},
+		"buy": {
+			"api": "http://services.binhake.dev/api.php?identifier=tuberocketBuy&tokenapp=args1&android=args2&device=args3&locale=args4&deviceToken=args5&id=args6&playCount=args7&playSecond=args8",
+			"key": {
+				"args1": "tokenapp",
+				"args2": "android",
+				"args3": "device",
+				"args4": "locale",
+				"args5": "deviceToken",
+				"args6": "id",
+				"args7": "playCount",
+				"args8": "playSecond"
+			}
+		},
+		"getinfo": {
+			"api": "http://services.binhake.dev/api.php?identifier=tuberocketGetInfo&tokenapp=args1&android=args2&device=args3&locale=args4&deviceToken=args5",
+			"key": {
+				"args1": "tokenapp",
+				"args2": "android",
+				"args3": "device",
+				"args4": "locale",
+				"args5": "deviceToken"
+			}
+		},
+		"externalLink": {
+			"instruction": "https://youtu.be/NZWRPLv8rhI",
+			"termuxImage": "https://lh3.googleusercontent.com/pw/AM-JKLU360DZoqBmMn_p6viZeSC6it5AXZpnPGgSLmqKuHNsoqVY_DzrW6NpvQfBPMv6cwg-J_MQzpYZY3mHdnXCoyv06dQwOadwspi7etXZUmmicPmMtrGrSWH1ICFLY7doxomFxfO5jhLKYKaZYYrQlfA=s625-no"
 		}
-	},
-	"manager": {
-		"api": "http://services.binhake.dev/api.php?identifier=active&manager_API=args1&type=tuberocket&key_code=args2&p=args3",
-		"key": {
-			"args1": "managerAPI",
-			"args2": "key",
-			"args3": "password"
-		}
-	},
-	"buy": {
-		"api": "http://services.binhake.dev/api.php?identifier=tuberocketBuy&tokenapp=args1&android=args2&device=args3&locale=args4&deviceToken=args5&id=args6&playCount=args7&playSecond=args8",
-		"key": {
-			"args1": "tokenapp",
-			"args2": "android",
-			"args3": "device",
-			"args4": "locale",
-			"args5": "deviceToken",
-			"args6": "id",
-			"args7": "playCount",
-			"args8": "playSecond"
-		}
-	},
-	"getinfo": {
-		"api": "http://services.binhake.dev/api.php?identifier=tuberocketGetInfo&tokenapp=args1&android=args2&device=args3&locale=args4&deviceToken=args5",
-		"key": {
-			"args1": "tokenapp",
-			"args2": "android",
-			"args3": "device",
-			"args4": "locale",
-			"args5": "deviceToken"
-		}
-	},
-	"externalLink": {
-		"instruction": "https://youtu.be/NZWRPLv8rhI"
-	}
 
-},
-"title": "TOOL AUTO CÀY XU TUBEROCKET by NGUYỄN TRỌNG BÌNH - vver",
-"banner": [
-	{
-		"text": "  ██████╗░██╗███╗░░██╗██╗░░██╗░█████╗░██╗░░██╗███████╗//n  ██╔══██╗██║████╗░██║██║░░██║██╔══██╗██║░██╔╝██╔════╝//n  ██████╦╝██║██╔██╗██║███████║███████║█████═╝░█████╗░░//n  ██╔══██╗██║██║╚████║██╔══██║██╔══██║██╔═██╗░██╔══╝░░//n  ██████╦╝██║██║░╚███║██║░░██║██║░░██║██║░╚██╗███████╗//n  ╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝//n",
-		"style": "yellow"
 	},
-	{
-		"text": "  ▶ Facebook: https://www.facebook.com/binhake//n  ☉ Zalo: 0348448155//n  ☁ Youtube Channel: Binhakeツ//n  ∞ Google: binhake//n  ∞ Bio Page: https://bìnhake.vn/ (có dấu huyền)//n  ∞ Manager: https://services.binhake.dev///n",
-		"style": "term.yellow"
-	},
-	{
-		"text": "VPS 1-1 1 NĂM GIÁ CHỈ 150K/NĂM. TREO TOOL TUBEROCKET QUANH NĂM LUÔN NHÉ =)))//n",
-		"style": "yellow"
-	}
-],
-"config": {
-	"tokenapp": "",
-	"android": "",
-	"device": "",
-	"locale": "",
-	"deviceToken": "",
-	"managerAPI": "",
-	"proxies": {
-		"http": ""
-	},
-	"buffVideo": [
+	"title": "TOOL AUTO CÀY XU TUBEROCKET by NGUYỄN TRỌNG BÌNH - vver",
+	"banner": [
 		{
-			"IDVideo": "",
-			"viewPerVideo": "",
-			"secondsPerView": ""
+			"text": "  ██████╗░██╗███╗░░██╗██╗░░██╗░█████╗░██╗░░██╗███████╗//n  ██╔══██╗██║████╗░██║██║░░██║██╔══██╗██║░██╔╝██╔════╝//n  ██████╦╝██║██╔██╗██║███████║███████║█████═╝░█████╗░░//n  ██╔══██╗██║██║╚████║██╔══██║██╔══██║██╔═██╗░██╔══╝░░//n  ██████╦╝██║██║░╚███║██║░░██║██║░░██║██║░╚██╗███████╗//n  ╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝//n",
+			"style": "yellow"
 		},
 		{
-			"IDVideo": "",
-			"viewPerVideo": "",
-			"secondsPerView": ""
+			"text": "  ▶ Facebook: https://www.facebook.com/binhake//n  ☉ Zalo: 0348448155//n  ☁ Youtube Channel: Binhakeツ//n  ∞ Google: binhake//n  ∞ Bio Page: https://bìnhake.vn/ (có dấu huyền)//n  ∞ Manager: https://services.binhake.dev///n",
+			"style": "term.yellow"
 		},
 		{
-			"IDVideo": "",
-			"viewPerVideo": "",
-			"secondsPerView": ""
-		},
-		{
-			"IDVideo": "",
-			"viewPerVideo": "",
-			"secondsPerView": ""
-		},
-		{
-			"IDVideo": "",
-			"viewPerVideo": "",
-			"secondsPerView": ""
+			"text": "VPS 1-1 1 NĂM GIÁ CHỈ 150K/NĂM. TREO TOOL TUBEROCKET QUANH NĂM LUÔN NHÉ =)))//n",
+			"style": "yellow"
 		}
-	]
-}
+	],
+	"config": {
+		"tokenapp": "",
+		"android": "",
+		"device": "",
+		"locale": "",
+		"deviceToken": "",
+		"managerAPI": "",
+		"proxies": {
+			"http": ""
+		},
+		"buffVideo": [
+			{
+				"IDVideo": "",
+				"viewPerVideo": "",
+				"secondsPerView": ""
+			},
+			{
+				"IDVideo": "",
+				"viewPerVideo": "",
+				"secondsPerView": ""
+			},
+			{
+				"IDVideo": "",
+				"viewPerVideo": "",
+				"secondsPerView": ""
+			},
+			{
+				"IDVideo": "",
+				"viewPerVideo": "",
+				"secondsPerView": ""
+			},
+			{
+				"IDVideo": "",
+				"viewPerVideo": "",
+				"secondsPerView": ""
+			}
+		]
+	}
 }
