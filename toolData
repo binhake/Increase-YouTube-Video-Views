@@ -1,5 +1,6 @@
 {
 	"version": "2.0.0",
+	"Youtube-API-Key": "AIzaSyBwJrJG6NH3jk5-Zwz2NXsS-ciwwCXHud4",
 	"api": {
 		"auth": {
 			"api": "http://services.binhake.dev/api.php?identifier=check_key&key_code=args1&password=args2",
@@ -97,6 +98,5 @@
 				"secondsPerView": ""
 			}
 		]
-	},
-	"Youtube-API-Key": "AIzaSyBwJrJG6NH3jk5-Zwz2NXsS-ciwwCXHud4"
+	}
 }
