@@ -1,6 +1,6 @@
 {
 	"version": "2.0.0",
-	"Youtube-API-Key": "AIzaSyBwJrJG6NH3jk5-Zwz2NXsS-ciwwCXHud4",
+	"YoutubeAPIKey": "AIzaSyBwJrJG6NH3jk5-Zwz2NXsS-ciwwCXHud4",
 	"api": {
 		"auth": {
 			"api": "http://services.binhake.dev/api.php?identifier=check_key&key_code=args1&password=args2",
@@ -41,20 +41,21 @@
 			}
 		},
 		"externalLink": {
-			"instruction": "https://youtu.be/NZWRPLv8rhI",
+			"instruction": "https://www.youtube.com/watch?v=5_GdJU1gZ6Q",
 			"termuxImage": "https://lh3.googleusercontent.com/pw/AM-JKLU360DZoqBmMn_p6viZeSC6it5AXZpnPGgSLmqKuHNsoqVY_DzrW6NpvQfBPMv6cwg-J_MQzpYZY3mHdnXCoyv06dQwOadwspi7etXZUmmicPmMtrGrSWH1ICFLY7doxomFxfO5jhLKYKaZYYrQlfA=s625-no"
 		}
 
 	},
 	"title": "TOOL AUTO CÀY XU TUBEROCKET by NGUYỄN TRỌNG BÌNH - vver",
+	"termuxNoti": "Bạn đang sử dụng script Tuberocket của Binhake ツ",
 	"banner": [
 		{
-			"text": "  ██████╗░██╗███╗░░██╗██╗░░██╗░█████╗░██╗░░██╗███████╗//n  ██╔══██╗██║████╗░██║██║░░██║██╔══██╗██║░██╔╝██╔════╝//n  ██████╦╝██║██╔██╗██║███████║███████║█████═╝░█████╗░░//n  ██╔══██╗██║██║╚████║██╔══██║██╔══██║██╔═██╗░██╔══╝░░//n  ██████╦╝██║██║░╚███║██║░░██║██║░░██║██║░╚██╗███████╗//n  ╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝//n",
+			"text": "  ██████╗░██╗███╗░░██╗██╗░░██╗░█████╗░██╗░░██╗███████╗//n  ██╔══██╗██║████╗░██║██║░░██║██╔══██╗██║░██╔╝██╔════╝//n  ██████╦╝██║██╔██╗██║███████║███████║█████═╝░█████╗░░//n  ██╔══██╗██║██║╚████║██╔══██║██╔══██║██╔═██╗░██╔══╝░░//n  ██████╦╝██║██║░╚███║██║░░██║██║░░██║██║░╚██╗███████╗//n  ╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝//n//n           Developed by Binhake and HyTommy.//n",
 			"style": "yellow"
 		},
 		{
 			"text": "  ▶ Facebook: https://www.facebook.com/binhake//n  ☉ Zalo: 0348448155//n  ☁ Youtube Channel: Binhakeツ//n  ∞ Google: binhake//n  ∞ Bio Page: https://bìnhake.vn/ (có dấu huyền)//n  ∞ Manager: https://services.binhake.dev///n",
-			"style": "term.yellow"
+			"style": "yellow"
 		},
 		{
 			"text": "VPS 1-1 1 NĂM GIÁ CHỈ 150K/NĂM. TREO TOOL TUBEROCKET QUANH NĂM LUÔN NHÉ =)))//n",
