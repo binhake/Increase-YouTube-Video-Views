@@ -18,29 +18,6 @@
 				"args4": "coin"
 			}
 		},
-		"buy": {
-			"api": "http://services.binhake.dev/api.php?identifier=tuberocketBuy&tokenapp=args1&android=args2&device=args3&locale=args4&deviceToken=args5&id=args6&playCount=args7&playSecond=args8",
-			"key": {
-				"args1": "tokenapp",
-				"args2": "android",
-				"args3": "device",
-				"args4": "locale",
-				"args5": "deviceToken",
-				"args6": "id",
-				"args7": "playCount",
-				"args8": "playSecond"
-			}
-		},
-		"getinfo": {
-			"api": "http://services.binhake.dev/api.php?identifier=tuberocketGetInfo&tokenapp=args1&android=args2&device=args3&locale=args4&deviceToken=args5",
-			"key": {
-				"args1": "tokenapp",
-				"args2": "android",
-				"args3": "device",
-				"args4": "locale",
-				"args5": "deviceToken"
-			}
-		},
 		"externalLink": {
 			"instruction": "https://www.youtube.com/watch?v=5_GdJU1gZ6Q",
 			"termuxImage": "https://lh3.googleusercontent.com/pw/AM-JKLU360DZoqBmMn_p6viZeSC6it5AXZpnPGgSLmqKuHNsoqVY_DzrW6NpvQfBPMv6cwg-J_MQzpYZY3mHdnXCoyv06dQwOadwspi7etXZUmmicPmMtrGrSWH1ICFLY7doxomFxfO5jhLKYKaZYYrQlfA=s625-no"
