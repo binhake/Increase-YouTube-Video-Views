@@ -2,10 +2,10 @@
   "name": "TuberocketFull",
   "version": "2.0.1",
   "description": "Tuberocket script Full version",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node main.js"
+    "start": "node index.js"
   },
   "author": "Nguyen Trong Binh",
   "license": "ISC",
