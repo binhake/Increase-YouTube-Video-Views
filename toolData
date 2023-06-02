@@ -1,5 +1,7 @@
 {
 	"version": "2.0.1",
+	"loaderVersion": "0.0.1",
+	"scriptVersion": "2.0.1",
 	"YoutubeAPIKey": "AIzaSyBwJrJG6NH3jk5-Zwz2NXsS-ciwwCXHud4",
 	"api": {
 		"auth": {
