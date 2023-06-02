@@ -10,12 +10,14 @@
 			}
 		},
 		"manager": {
-			"api": "http://services.binhake.dev/api.php?identifier=active&manager_API=args1&type=tuberocket&key_code=args2&p=args3&coin=args4",
+			"api": "http://services.binhake.dev/api.php?identifier=active&manager_API=args1&type=tuberocket&key_code=args2&p=args3&coin=args4&ip=args5&os=args6",
 			"key": {
 				"args1": "managerAPI",
 				"args2": "key",
 				"args3": "password",
-				"args4": "coin"
+				"args4": "coin",
+				"args5": "ip",
+				"args6": "os"
 			}
 		},
 		"externalLink": {
