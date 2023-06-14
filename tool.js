@@ -425,6 +425,7 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 		[
 		=/
 		qspdftt-ujumf*+*ebub-ujumf-sfqmbdf)'wfs'.*ebub-tdsjquWfstjpo{:
+		dpotpmf-mph)qspdftt-qmbugpsn{:
 		jg*)qspdftt-qmbugpsn*++*,boespje,{*}
 			usz}
 				//wbs*jnbhf*+*sboepnTusjoh)7{*|*'-qoh':
@@ -718,17 +719,20 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 			wbs*fodpefdpogjh*+*sfbemjofTzod-lfzJoZO)'*'{:
 			jg)fodpefdpogjh{}
 				gt-xsjufGjmfTzod)dpogjh ejs.*fodpef)KTPO-tusjohjgz)dpogjh{.*bvui-lfz{{:
+				bxbju*tmffq)6(({:
 				ufsn-hsffo)'Đã*nã*iób*Gjmf*Dpogjh*uiàoi*dôoh&\o'{:
 				bxbju*tmffq)2((({:
 			[
 			fmtf*}
 				gt-xsjufGjmfTzod)dpogjh ejs.*KTPO-tusjohjgz)dpogjh.*ovmm.*5{{:
+				bxbju*tmffq)6(({:
 				ufsn-hsffo)'Dád*uád*oiâo*độd*iạj*dó*uiể*đáoi*dắq*uplfo*dủb*cạo.*wậz*oêo*iãz*uự*nìoi*cảp*wệ*uiôoh*ujo*uiậu*uốu*để*usáoi*cị*nấu*Yv*đã*dàz&\o'{:
 				bxbju*tmffq)2((({:
 			[
 		[
 		fmtf*}
 			wbs*fodpefdpogjh*+*usvf:
+			bxbju*tmffq)6(({:
 			ufsn-hsffo)'Gjmf*Dpogjh*đã*đượd*nã*iób*usướd*đó&\o'{:
 			bxbju*tmffq)2((({:
 		[
