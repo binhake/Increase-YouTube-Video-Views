@@ -425,19 +425,15 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 		[
 		=/
 		qspdftt-ujumf*+*ebub-ujumf-sfqmbdf)'wfs'.*ebub-tdsjquWfstjpo{:
-		//dpotpmf-mph)qspdftt-qmbugpsn{:
 		jg*)qspdftt-qmbugpsn*++*,boespje,{*}
 			usz}
 				//wbs*jnbhf*+*sboepnTusjoh)7{*|*'-qoh':
 				//wbs*jnbhf*+*'cjoiblf-qoh':
-				fyfdTzod),fdip*_of*'\(44;(:,*|*ebub-ujumf-sfqmbdf)'wfs'.*tdsjquWfs{*|*,\((8',{:
-				dpotpmf-mph)'2'{:
+				fyfdTzod),fdip*_of*'\(44;(:,*|*ebub-ujumf-sfqmbdf)'wfs'.*ebub-tdsjquWfstjpo{*|*,\((8',{:
 				fyfdTzod),bqu*jotubmm*ufsnvy_bqj*xhfu*_z*_r,{:
-				dpotpmf-mph)'3'{:
 				//fyfdTzod)`bqu_hfu*jotubmm*ufsnjnbhf*ufsnvy_bqj*xhfu*_z*_r*aa*xhfu*_r*_P*$}jnbhf[*'$}ebub-bqj-fyufsobmMjol-ufsnvyJnbhf['`{:
 				//fyfdTzod)`ufsnvy_upbtu*_h*cpuupn*_c*xijuf*_d*$}ebub-ufsnvyOpuj[`{:
 				fyfdTzod)`ufsnvy_opujgjdbujpo*__ujumf*'Cjoiblf*ツ'*__dpoufou*'$}ebub-ufsnvyOpuj['*__qsjpsjuz*ijhi*__tpvoe`{:*//__jnbhf_qbui*'$}jnbhf['
-				dpotpmf-mph)'4'{:
 				//fyfdTzod)`ufsnjnbhf*$}jnbhf[`{:
 				//fyfdTzod)`ufsnjnbhf*cjoiblf-qoh`{:
 				//gt-vomjolTzod)qbui-kpjo)  ejsobnf.*jnbhf{{:
@@ -600,12 +596,17 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 					spx){:
 					bxbju*tmffq)6(({:
 					usz}
-						ufsn-hsffo)'Đboh*uảj*dpogjh*nẫv*wề----'{:
+						ufsn-hsffo)'Đboh*uảj*dpogjh*nẫv*wề---\o'{:
 						dpogjh*+*ebub-dpogjh:
-						ufsn-hsffo)'\oĐã*uảj*ypoh*dpogjh*nẫv.*đboh*uạp*gjmf---'{:
+						bxbju*tmffq)2((({:
+						ufsn-fsbtfMjof3)36{:
+						ufsn-hsffo)'Đã*uảj*ypoh*dpogjh*nẫv.*đboh*uạp*gjmf---\o'{:
 						wbs*dpogjh ejs*+*qbui-kpjo)  ejsobnf.*'dpogjh-ktpo'{:
 						gt-xsjufGjmfTzod)dpogjh ejs.*KTPO-tusjohjgz)dpogjh.*ovmm.*5{{:
-						ufsn-hsffo)'\oTDsjqu*đã*uự*độoh*uạp*2*Gjmf*iợq*mệ*uạj*đườoh*eẫo*'{-zfmmpx)dpogjh ejs{-hsffo)'*hjúq*cạo-*Iãz*wàp*wà*diỉoi*tửb*Gjmf*uifp*Wjefp*iướoh*eẫo*để*diạz*đượd*Tdsjqu-'{:
+						bxbju*tmffq)6(({:
+						ufsn-fsbtfMjof3)5({:
+						ufsn-hsffo)'TDsjqu*đã*uự*độoh*uạp*2*Gjmf*iợq*mệ*uạj*đườoh*eẫo*'{-zfmmpx)dpogjh ejs{-hsffo)'*hjúq*cạo-*Iãz*wàp*wà*diỉoi*tửb*Gjmf*uifp*Wjefp*iướoh*eẫo*để*diạz*đượd*Tdsjqu-'{:
+						bxbju*tmffq)6(({:
 						qspdftt-fyju){:
 					[
 					dbudi)fss{}
