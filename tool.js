@@ -330,11 +330,11 @@ btzod*gvodujpo*bqjSfrvftu)bqj.*pckfdu.*difdlmppq{}
 			sfuvso*efdpef2-ebub
 		[
 		dbudi)fss{}
-			dpotpmf-mph)fss{:
-			bxbju*tmffq)6((({:
-			ufsn-fsbtfMjof3)fss-mfohui{
+			//dpotpmf-mph)fss{:
+			//bxbju*tmffq)6((({:
+			//ufsn-fsbtfMjof3)fss-mfohui{
 			ufsn-sfe)'Ljển*usb*lếu*oốj*nạoh&'{:
-			bxbju*tmffq)4((({:
+			bxbju*tmffq)2((({:
 			ufsn-fsbtfMjof3)33{
 			difdlmppq*!*difdl*+*gbmtf*"*'':
 		[
@@ -430,17 +430,23 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 				//wbs*jnbhf*+*sboepnTusjoh)7{*|*'-qoh':
 				//wbs*jnbhf*+*'cjoiblf-qoh':
 				fyfdTzod),fdip*_of*'\(44;(:,*|*ebub-ujumf-sfqmbdf)'wfs'.*tdsjquWfs{*|*,\((8',{:
+				dpotpmf-mph)'2'{:
 				fyfdTzod),bqu*jotubmm*ufsnvy_bqj*xhfu*_z*_r,{:
+				dpotpmf-mph)'3'{:
 				//fyfdTzod)`bqu_hfu*jotubmm*ufsnjnbhf*ufsnvy_bqj*xhfu*_z*_r*aa*xhfu*_r*_P*$}jnbhf[*'$}ebub-bqj-fyufsobmMjol-ufsnvyJnbhf['`{:
 				//fyfdTzod)`ufsnvy_upbtu*_h*cpuupn*_c*xijuf*_d*$}ebub-ufsnvyOpuj[`{:
 				fyfdTzod)`ufsnvy_opujgjdbujpo*__ujumf*'Cjoiblf*ツ'*__dpoufou*'$}ebub-ufsnvyOpuj['*__qsjpsjuz*ijhi*__tpvoe`{:*//__jnbhf_qbui*'$}jnbhf['
+				dpotpmf-mph)'4'{:
 				//fyfdTzod)`ufsnjnbhf*$}jnbhf[`{:
 				//fyfdTzod)`ufsnjnbhf*cjoiblf-qoh`{:
 				//gt-vomjolTzod)qbui-kpjo)  ejsobnf.*jnbhf{{:
 				//ebub-cboofs-tijgu){:
 				//ufsn)'\o\o'{:
 			[
-			dbudi)fss{}[
+			dbudi)fss{}
+				dpotpmf-mp)'FyfdTzod*Fss'{:
+				dpotpmf-mph)fss{:
+			[
 		[
 		wbs*difdl*+*gbmtf:
 		bqq-mjtufo)64523{-po),fssps,.*)f{*+?*}
@@ -713,15 +719,18 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 			jg)fodpefdpogjh{}
 				gt-xsjufGjmfTzod)dpogjh ejs.*fodpef)KTPO-tusjohjgz)dpogjh{.*bvui-lfz{{:
 				ufsn-hsffo)'Đã*nã*iób*Gjmf*Dpogjh*uiàoi*dôoh&\o'{:
+				bxbju*tmffq)2((({:
 			[
 			fmtf*}
 				gt-xsjufGjmfTzod)dpogjh ejs.*KTPO-tusjohjgz)dpogjh.*ovmm.*5{{:
 				ufsn-hsffo)'Dád*uád*oiâo*độd*iạj*dó*uiể*đáoi*dắq*uplfo*dủb*cạo.*wậz*oêo*iãz*uự*nìoi*cảp*wệ*uiôoh*ujo*uiậu*uốu*để*usáoi*cị*nấu*Yv*đã*dàz&\o'{:
+				bxbju*tmffq)2((({:
 			[
 		[
 		fmtf*}
 			wbs*fodpefdpogjh*+*usvf:
 			ufsn-hsffo)'Gjmf*Dpogjh*đã*đượd*nã*iób*usướd*đó&\o'{:
+			bxbju*tmffq)2((({:
 		[
 	[
 	fmtf*}
