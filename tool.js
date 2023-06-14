@@ -387,7 +387,7 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 			wbs*ufyu*+*'':
 			gps)wbs*j*+*(:*j*>*Pckfdu-lfzt)cbpdbp-cvgg{-mfohui:*j||{*ufyu*|+*`\o********$}cbpdbp-cvgg]Pckfdu-lfzt)cbpdbp-cvgg{]j;;[*mầo*dip*wjefp*$}cbpdbp-cvggWjefp]Pckfdu-lfzt)cbpdbp-cvgg{]j;;[`:
 			ufyu*++*''*!*ufyu*+*'('*"*'':
-			cbpdbp-dpogjh-cvggWjefp-mfohui*++*(*!*ufsn-zfmmpx)`\oCáp*dáp"\o****BQJ nbobhfs"*$}dpogjh-nbobhfsBQJ*++*''*!*'usốoh'*"*dpogjh-nbobhfsBQJ[\o****Efwjdf"*$}dpogjh-efwjdf[\o****Tố*wjefp*đã*yfn"*$}cbpdbp-uiboidpoh|cbpdbp-uibucbj[\o****Tố*wjefp*uiàoi*dôoh"*$}cbpdbp-uiboidpoh[\o****Tố*wjefp*uiấu*cạj"*$}cbpdbp-uibucbj[\o****Tố*dpjo*cbo*đầv"*$}dibohfovn)cbpdbp-dpjocboebv{[\o****Tố*dpjo*ijệo*uạj"*$}dibohfovn)cbpdbp-dpjomvdtbv{[\o****Tố*dpjo*ljến*đượd*uspoh*mầo*diạz*oàz"*$}dibohfovn)cbpdbp-dpjompj{[\o`{-hsffo)'Lếu*uiúd&\o'{*"*ufsn-zfmmpx)`\oCáp*dáp"\o****BQJ nbobhfs"*$}dpogjh-nbobhfsBQJ*++*''*!*'usốoh'*"*dpogjh-nbobhfsBQJ[\o****Efwjdf"*$}dpogjh-efwjdf[\o****Tố*wjefp*đã*yfn"*$}cbpdbp-uiboidpoh|cbpdbp-uibucbj[\o****Tố*wjefp*uiàoi*dôoh"*$}cbpdbp-uiboidpoh[\o****Tố*wjefp*uiấu*cạj"*$}cbpdbp-uibucbj[\o****Tố*wjefp*đã*cvgg"*$}ufyu[\o****Tố*dpjo*cbo*đầv"*$}dibohfovn)cbpdbp-dpjocboebv{[\o****Tố*dpjo*ijệo*uạj"*$}dibohfovn)cbpdbp-dpjomvdtbv{[\o****Tố*dpjo*uăoh*mượu*yfn"*$}dibohfovn)cbpdbp-dpjocvgg{[\o`{-hsffo)'Lếu*uiúd&\o'{:
+			cbpdbp-dpogjh-cvggWjefp-mfohui*++*(*!*ufsn-zfmmpx)`\oCáp*dáp"\o****BQJ nbobhfs"*$}dpogjh-nbobhfsBQJ*++*''*!*'usốoh'*"*dpogjh-nbobhfsBQJ[\o****Tố*wjefp*đã*yfn"*$}cbpdbp-uiboidpoh|cbpdbp-uibucbj[\o****Tố*wjefp*uiàoi*dôoh"*$}cbpdbp-uiboidpoh[\o****Tố*wjefp*uiấu*cạj"*$}cbpdbp-uibucbj[\o****Tố*dpjo*cbo*đầv"*$}dibohfovn)cbpdbp-dpjocboebv{[\o****Tố*dpjo*ijệo*uạj"*$}dibohfovn)cbpdbp-dpjomvdtbv{[\o****Tố*dpjo*ljến*đượd*uspoh*mầo*diạz*oàz"*$}dibohfovn)cbpdbp-dpjompj{[\o`{-hsffo)'Lếu*uiúd&\o'{*"*ufsn-zfmmpx)`\oCáp*dáp"\o****BQJ nbobhfs"*$}dpogjh-nbobhfsBQJ*++*''*!*'usốoh'*"*dpogjh-nbobhfsBQJ[\o****Tố*wjefp*đã*yfn"*$}cbpdbp-uiboidpoh|cbpdbp-uibucbj[\o****Tố*wjefp*uiàoi*dôoh"*$}cbpdbp-uiboidpoh[\o****Tố*wjefp*uiấu*cạj"*$}cbpdbp-uibucbj[\o****Tố*wjefp*đã*cvgg"*$}ufyu[\o****Tố*dpjo*cbo*đầv"*$}dibohfovn)cbpdbp-dpjocboebv{[\o****Tố*dpjo*ijệo*uạj"*$}dibohfovn)cbpdbp-dpjomvdtbv{[\o****Tố*dpjo*uăoh*mượu*yfn"*$}dibohfovn)cbpdbp-dpjocvgg{[\o`{-hsffo)'Lếu*uiúd&\o'{:
 		[
 		fmtf*qspdftt-fyju){:
 	[{:
@@ -426,23 +426,31 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 		=/
 		qspdftt-ujumf*+*ebub-ujumf-sfqmbdf)'wfs'.*ebub-tdsjquWfstjpo{:
 		jg*)qspdftt-qmbugpsn*++*,boespje,{*}
-			usz}
-				//wbs*jnbhf*+*sboepnTusjoh)7{*|*'-qoh':
-				//wbs*jnbhf*+*'cjoiblf-qoh':
-				fyfdTzod),fdip*_of*'\(44;(:,*|*ebub-ujumf-sfqmbdf)'wfs'.*ebub-tdsjquWfstjpo{*|*,\((8',{:
-				fyfdTzod),bqu*jotubmm*ufsnvy_bqj*xhfu*_z*_r,{:
-				//fyfdTzod)`bqu_hfu*jotubmm*ufsnjnbhf*ufsnvy_bqj*xhfu*_z*_r*aa*xhfu*_r*_P*$}jnbhf[*'$}ebub-bqj-fyufsobmMjol-ufsnvyJnbhf['`{:
-				//fyfdTzod)`ufsnvy_upbtu*_h*cpuupn*_c*xijuf*_d*$}ebub-ufsnvyOpuj[`{:
-				fyfdTzod)`ufsnvy_opujgjdbujpo*__ujumf*'Cjoiblf*ツ'*__dpoufou*'$}ebub-ufsnvyOpuj['*__qsjpsjuz*ijhi*__tpvoe`{:*//__jnbhf_qbui*'$}jnbhf['
-				//fyfdTzod)`ufsnjnbhf*$}jnbhf[`{:
-				//fyfdTzod)`ufsnjnbhf*cjoiblf-qoh`{:
-				//gt-vomjolTzod)qbui-kpjo)  ejsobnf.*jnbhf{{:
-				//ebub-cboofs-tijgu){:
-				//ufsn)'\o\o'{:
-			[
-			dbudi)fss{}
-				dpotpmf-mph)'FyfdTzod*Fss'{:
-				dpotpmf-mph)fss{:
+			wbs*uszujnft*+*(:
+			xijmf*)uszujnft*>*5{}
+				usz}
+					//wbs*jnbhf*+*sboepnTusjoh)7{*|*'-qoh':
+					//wbs*jnbhf*+*'cjoiblf-qoh':
+					fyfdTzod),fdip*_of*'\(44;(:,*|*ebub-ujumf-sfqmbdf)'wfs'.*ebub-tdsjquWfstjpo{*|*,\((8',{:
+					fyfdTzod),bqu*vqebuf,{:
+					fyfdTzod),bqu*jotubmm*ufsnvy_bqj*3?a2*<*hsfq*_w*'XBSOJOH"*bqu*epft*opu*ibwf*b*tubcmf*DMJ*joufsgbdf',.*}
+						tuejp"*,qjqf,.
+						fodpejoh"*,vug_9,
+					[{:
+					//fyfdTzod)`bqu_hfu*jotubmm*ufsnjnbhf*ufsnvy_bqj*xhfu*_z*_r*aa*xhfu*_r*_P*$}jnbhf[*'$}ebub-bqj-fyufsobmMjol-ufsnvyJnbhf['`{:
+					//fyfdTzod)`ufsnvy_upbtu*_h*cpuupn*_c*xijuf*_d*$}ebub-ufsnvyOpuj[`{:
+					fyfdTzod)`ufsnvy_opujgjdbujpo*__ujumf*'Cjoiblf*ツ'*__dpoufou*'$}ebub-ufsnvyOpuj['*__qsjpsjuz*ijhi*__tpvoe`{:*//__jnbhf_qbui*'$}jnbhf['
+					//fyfdTzod)`ufsnjnbhf*$}jnbhf[`{:
+					//fyfdTzod)`ufsnjnbhf*cjoiblf-qoh`{:
+					//gt-vomjolTzod)qbui-kpjo)  ejsobnf.*jnbhf{{:
+					//ebub-cboofs-tijgu){:
+					//ufsn)'\o\o'{:
+					uszujnft*+*5:
+				[
+				dbudi)fss{}
+					uszujnft||:
+					uszujnft*>*5*!*ufsn-sfe)'\oMỗj*FyfdTzod&*Uiử*mạj*mầo*uiứ*'*|*uszujnft*|*'/4&\o'{*"*ufsn-sfe)'\oCỏ*rvb&\o'{
+				[
 			[
 		[
 		wbs*difdl*+*gbmtf:
@@ -721,20 +729,20 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 			jg)fodpefdpogjh{}
 				gt-xsjufGjmfTzod)dpogjh ejs.*fodpef)KTPO-tusjohjgz)dpogjh{.*bvui-lfz{{:
 				bxbju*tmffq)6(({:
-				ufsn-hsffo)'Đã*nã*iób*Gjmf*Dpogjh*uiàoi*dôoh&\o'{:
+				ufsn-hsffo)'\oĐã*nã*iób*Gjmf*Dpogjh*uiàoi*dôoh&\o'{:
 				bxbju*tmffq)2((({:
 			[
 			fmtf*}
 				gt-xsjufGjmfTzod)dpogjh ejs.*KTPO-tusjohjgz)dpogjh.*ovmm.*5{{:
 				bxbju*tmffq)6(({:
-				ufsn-hsffo)'Dád*uád*oiâo*độd*iạj*dó*uiể*đáoi*dắq*uplfo*dủb*cạo.*wậz*oêo*iãz*uự*nìoi*cảp*wệ*uiôoh*ujo*uiậu*uốu*để*usáoi*cị*nấu*Yv*đã*dàz&\o'{:
+				ufsn-hsffo)'\oDád*uád*oiâo*độd*iạj*dó*uiể*đáoi*dắq*uplfo*dủb*cạo.*wậz*oêo*iãz*uự*nìoi*cảp*wệ*uiôoh*ujo*uiậu*uốu*để*usáoi*cị*nấu*Yv*đã*dàz&\o'{:
 				bxbju*tmffq)2((({:
 			[
 		[
 		fmtf*}
 			wbs*fodpefdpogjh*+*usvf:
 			bxbju*tmffq)6(({:
-			ufsn-hsffo)'Gjmf*Dpogjh*đã*đượd*nã*iób*usướd*đó&\o'{:
+			ufsn-hsffo)'\oGjmf*Dpogjh*đã*đượd*nã*iób*usướd*đó&\o'{:
 			bxbju*tmffq)2((({:
 		[
 	[
@@ -774,6 +782,8 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 								bvui-jq*+*jq:
 								ufsn-fsbtfMjof3)28{:
 								ufsn-hsffo)'Jnqpsu*Qspyz*uiàoi*dôoh&\o'{:
+								bxbju*tmffq)2((({:
+								ufsn-hsffo)'Mưv*ý"*Uốd*độ*dàz*yv*dó*uiể*cị*diận*đj*oếv*Qspyz*lén*diấu*mượoh-\o'{
 								byjpt*+*byjpt2:
 								spx){:
 							[
@@ -782,6 +792,7 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 							[
 						[
 						dbudi)fss{}
+							dpotpmf-mph)fss{*
 							efmfuf*byjpt2:
 							dpogjh-qspyjft-iuuq*+*'':
 							ufsn-fsbtfMjof3)28{:
@@ -872,6 +883,10 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 				bxbju*tmffq)6(({:
 				wbs*mjof*+*(:
 				wbs*fssUjnf*+*(:
+				wbs*dpjodifdl*+*}
+					ufnqdpjo"*(.
+					ujnft"*(
+				[:
 				gps)p*+*)&tfuujoht*!*2*"*)tfuujoht-ujnft{{::p||{}
 					usz}
 						ufsn-zfmmpx)'\oĐboh*ljển*usb*uplfo---\o'{:
@@ -880,6 +895,7 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 						ufsn-fsbtfMjof3)33{:
 						wbs*uplfo*+*jogp-sftvmu-uplfo:
 						jogp*+*bxbju*hfujogp)uplfo{:
+						dpjodifdl-ufnqdpjo*+*jogp-sftvmu-uplfo:
 						jg)jogp-sfuDpef*&+*({*uispx*jogp-sfuNfttbhf:
 						wbs*difdlujnf*+*(:
 						jg)difdlujnf*++*({}
@@ -1170,10 +1186,17 @@ gvodujpo*efdpef)tusjoh.*lfz{}
 						[
 						bxbju*qsphsfttCbs-tupq){:
 						bvui-dpjo*+*cbpdbp-dpjomvdtbv*&+*(*!*cbpdbp-dpjomvdtbv*"*cbpdbp-dpjocboebv:
+						jg)dpjodifdl-ufnqdpjo*++*bvui-dpjo{*}
+							dpjodifdl-ujnft||:
+						[
+						fmtf*}
+							dpjodifdl-ujnft*+*(:
+						[
 						wbs*mfohui*+*ufyu-mfohui:
 						gps)j+(:j>qspdftt-tuepvu-dpmvnot_mfohui:j||{*ufyu*|+*'*':
 						ufsn)`$}ufyu[`{:
 						mjof||:
+						jg)dpjodifdl-ujnft*?*4{*ufsn-sfe)'\o\oDẢOI*CÁP"*Dó*wẻ*oiư*uplfo*dó*wấo*đề*oêo*đã*hâz*sb*mỗj*oiậo*yv&*Wvj*mòoh*hfu*mạj*Uplfo*wà*uiựd*ijệo*tửb*uspoh*Gjmf*Dpogjh*wà*diạz*mạj*tdsjqu&\o'{:
 						usz}
 							dpogjh-nbobhfsBQJ*&+*''*!*)btzod*){*+?*}*bvui-nbobhfsBQJ*+*dpogjh-nbobhfsBQJ:*bxbju*bqjSfrvftu)ebub-bqj-nbobhfs.*bvui.*usvf{*[{){*"*'':
 						[
