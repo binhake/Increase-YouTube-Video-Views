@@ -33,7 +33,8 @@
 	"banner": [
 		{
 			"text": "  ██████╗░██╗███╗░░██╗██╗░░██╗░█████╗░██╗░░██╗███████╗//n  ██╔══██╗██║████╗░██║██║░░██║██╔══██╗██║░██╔╝██╔════╝//n  ██████╦╝██║██╔██╗██║███████║███████║█████═╝░█████╗░░//n  ██╔══██╗██║██║╚████║██╔══██║██╔══██║██╔═██╗░██╔══╝░░//n  ██████╦╝██║██║░╚███║██║░░██║██║░░██║██║░╚██╗███████╗//n  ╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝//n           Developed by Binhake and HyTommy.//n",
-			"style": "yellow"
+			"style": "yellow",
+			"center": true
 		},
 		{
 			"text": "  ▶ Facebook: https://www.facebook.com/binhake//n  ☉ Zalo: 0348448155//n  ☁ Youtube Channel: Binhakeツ//n  ∞ Google: binhake//n  ∞ Bio Page: https://bìnhake.vn/ (có dấu huyền)//n  ∞ Manager: https://services.binhake.store///n",
