@@ -32,41 +32,9 @@
 	"termuxNoti": "Bạn đang sử dụng script Tuberocket của Binhake ツ",
 	"banner": [
 		{
-			"text": "██████╗░██╗███╗░░██╗██╗░░██╗░█████╗░██╗░░██╗███████╗//n",
-			"style": "yellow",
-			"center": true
+			"text": "  ██████╗░██╗███╗░░██╗██╗░░██╗░█████╗░██╗░░██╗███████╗//n  ██╔══██╗██║████╗░██║██║░░██║██╔══██╗██║░██╔╝██╔════╝//n  ██████╦╝██║██╔██╗██║███████║███████║█████═╝░█████╗░░//n  ██╔══██╗██║██║╚████║██╔══██║██╔══██║██╔═██╗░██╔══╝░░//n  ██████╦╝██║██║░╚███║██║░░██║██║░░██║██║░╚██╗███████╗//n  ╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝//n           Developed by Binhake and HyTommy.//n",
+			"style": "yellow"
 		},
-		{
-			"text": "██╔══██╗██║████╗░██║██║░░██║██╔══██╗██║░██╔╝██╔════╝//n",
-			"style": "yellow",
-			"center": true
-		},
-		{
-			"text": "██████╦╝██║██╔██╗██║███████║███████║█████═╝░█████╗░░//n",
-			"style": "yellow",
-			"center": true
-		},
-		{
-			"text": "██╔══██╗██║██║╚████║██╔══██║██╔══██║██╔═██╗░██╔══╝░░//n",
-			"style": "yellow",
-			"center": true
-		},
-		{
-			"text": "██████╦╝██║██║░╚███║██║░░██║██║░░██║██║░╚██╗███████╗//n",
-			"style": "yellow",
-			"center": true
-		},
-		{
-			"text": "╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝//n",
-			"style": "yellow",
-			"center": true
-		},
-		{
-			"text": "          Developed by Binhake and HyTommy.         //n",
-			"style": "yellow",
-			"center": true
-		},
-		"row",
 		{
 			"text": "  ▶ Facebook: https://www.facebook.com/binhake//n  ☉ Zalo: 0348448155//n  ☁ Youtube Channel: Binhakeツ//n  ∞ Google: binhake//n  ∞ Bio Page: https://bìnhake.vn/ (có dấu huyền)//n  ∞ Manager: https://services.binhake.store///n",
 			"style": "yellow"
