@@ -1,7 +1,6 @@
 {
 	"version": "2.0.3",
-	"loaderVersion": "0.0.1",
-	"scriptVersion": "2.0.3",
+	"scriptVersion": "2.1.0",
 	"YoutubeAPIKey": "AIzaSyBwJrJG6NH3jk5-Zwz2NXsS-ciwwCXHud4",
 	"api": {
 		"GGToken": {
