@@ -4,6 +4,10 @@
 	"scriptVersion": "2.0.3",
 	"YoutubeAPIKey": "AIzaSyBwJrJG6NH3jk5-Zwz2NXsS-ciwwCXHud4",
 	"api": {
+		"GGToken": {
+			"api": "http://tuberocket.app:3000/api/signUp",
+			"key": {}
+		},
 		"auth": {
 			"api": "https://services.binhake.store/api.php?identifier=check_key&key_code=args1&password=args2",
 			"key": {
