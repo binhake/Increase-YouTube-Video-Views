@@ -1,10 +1,10 @@
 [
     {
-        "status":"open",
+        "type":"normal",
         "message":"VPS 1 Core - 1GB RAM 1 năm, giá chỉ từ 80.000VND."
     },
     {
-        "status":"open",
+        "type":"premium",
         "message":"VPS treo Auto Script Tuberocket giá chỉ từ 40.000VND."
     }
 ]
