@@ -1,12 +1,12 @@
 {
-    "tokenapp": "",
-    "android": "",
-    "device": "",
-    "locale": "",
-    "deviceToken": "",
-    "sensors": "",
-    "proxies": {
-        "http": "",
-        "sock": ""
+	"tokenapp": "",
+	"android": "",
+	"device": "",
+	"locale": "",
+	"deviceToken": "",
+	"sensors": "",
+	"proxies": {
+		"http": "",
+		"sock": ""
     }
 }
