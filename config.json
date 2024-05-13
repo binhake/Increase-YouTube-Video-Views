@@ -4,40 +4,9 @@
     "device": "",
     "locale": "",
     "deviceToken": "",
-    "managerAPI": "",
+    "sensors": "",
     "proxies": {
-        "http": ""
-    },
-    "buffVideo": [
-        {
-            "IDVideo": "",
-            "viewPerVideo": "",
-            "secondsPerView": ""
-        },
-        {
-            "IDVideo": "",
-            "viewPerVideo": "",
-            "secondsPerView": ""
-        },
-        {
-            "IDVideo": "",
-            "viewPerVideo": "",
-            "secondsPerView": ""
-        },
-        {
-            "IDVideo": "",
-            "viewPerVideo": "",
-            "secondsPerView": ""
-        },
-        {
-            "IDVideo": "",
-            "viewPerVideo": "",
-            "secondsPerView": ""
-        },
-        {
-            "IDVideo": "",
-            "viewPerVideo": "",
-            "secondsPerView": ""
-        }
-    ]
+        "http": "",
+        "sock": ""
+    }
 }
