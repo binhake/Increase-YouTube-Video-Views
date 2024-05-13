@@ -1,1 +1,31 @@
-
+[
+	{
+        "version": "3.0.0",
+        "Youtube_API_Key": "",
+        "title": "",
+        "termuxNotification": "",
+        "banner": "",
+		"advertisement.json": [
+            {
+                "type":"premium",
+                "message":"VPS 1 Core - 1GB RAM 1 năm, giá chỉ từ 80.000VND."
+            },
+            {
+                "type":"normal",
+                "message":"VPS treo Auto Script Tuberocket giá chỉ từ 40.000VND."
+            }
+        ],
+        "config.json": {
+            "tokenapp": "",
+            "android": "",
+            "device": "",
+            "locale": "",
+            "deviceToken": "",
+            "sensors": "",
+            "proxies": {
+                "http": "",
+                "sock": ""
+            }
+        }
+	}
+]
