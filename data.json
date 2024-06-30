@@ -28,24 +28,26 @@
 			}
 		},
 		"md5": [
-		    "versionCheck": "9810355ff8fda5284d5a4f4a0da045bd",
-		    "signIn": "e88102497a166ae2b83fa00d8c0024a8",
-		    "member": "183d2812f1cbd4f987deadf1c9006ce5",
-		    "shareCodeCoin": "7995ee3446e4da2e09eecd81c12399b8",
-		    "getVideo": "42a45d445bd110aae5cd6e5eb9c43f00",
-		    "claim": "071a53abe138274cb0b3f3093f094a1c",
-		    "onLoadFailed": "ce448b6147ea5ac16e1d73439c0fdeb2",
-		    "promoCode": "3d2fd165adaf2a8ddf19e51677cd2813",
-		    "generateJWT": "7bd3ec89fce01a94e3dd7db537eb74fd",
-		    "jwtDecode": "bfdf8ba38d943e02dbc721c05954aab2",
-		    "check_key": "8f23cf1ca8e5dee6377e1b22c933b59a",
-		    "getIPv4": "f03650475ec9adba1d0a8d3080f5eb89",
-		    "logExport": "f7cb5e2ba5f8fac9e81bbce2ee564b60",
-		    "getTime": "fe624fb005aabaf8d1bc757b04389ed8",
-		    "minor": "cd91e1e1ea258245dfbdace16e0f1b50",
-		    "readDirectoryAsync": "3c0f7180f64584b2fef1ac357a76e2f1",
-		    "randomColor": "f1a17603086377df45a34dfd8e236e8d",
-		    "getYoutubeInfo": "f582be9952c739c452e90daadc5d53fd"
+			{
+			    "versionCheck": "9810355ff8fda5284d5a4f4a0da045bd",
+			    "signIn": "e88102497a166ae2b83fa00d8c0024a8",
+			    "member": "183d2812f1cbd4f987deadf1c9006ce5",
+			    "shareCodeCoin": "7995ee3446e4da2e09eecd81c12399b8",
+			    "getVideo": "42a45d445bd110aae5cd6e5eb9c43f00",
+			    "claim": "071a53abe138274cb0b3f3093f094a1c",
+			    "onLoadFailed": "ce448b6147ea5ac16e1d73439c0fdeb2",
+			    "promoCode": "3d2fd165adaf2a8ddf19e51677cd2813",
+			    "generateJWT": "7bd3ec89fce01a94e3dd7db537eb74fd",
+			    "jwtDecode": "bfdf8ba38d943e02dbc721c05954aab2",
+			    "check_key": "8f23cf1ca8e5dee6377e1b22c933b59a",
+			    "getIPv4": "f03650475ec9adba1d0a8d3080f5eb89",
+			    "logExport": "f7cb5e2ba5f8fac9e81bbce2ee564b60",
+			    "getTime": "fe624fb005aabaf8d1bc757b04389ed8",
+			    "minor": "cd91e1e1ea258245dfbdace16e0f1b50",
+			    "readDirectoryAsync": "3c0f7180f64584b2fef1ac357a76e2f1",
+			    "randomColor": "f1a17603086377df45a34dfd8e236e8d",
+			    "getYoutubeInfo": "f582be9952c739c452e90daadc5d53fd"
+			}
 		]
 	}
 ]
